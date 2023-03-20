@@ -14,6 +14,13 @@
    width="210mm">
   <defs
      id="defs2">
+    <style>
+        @font-face
+        {
+            font-family: Ubuntu;
+            src: url('Ubuntu-Regular.ttf');
+        }
+    </style>
     <linearGradient
        osb:paint="solid"
        id="linearGradient5295">
