@@ -20,6 +20,12 @@
             font-family: Ubuntu;
             src: url('Ubuntu-Regular.ttf');
         }
+        @font-face
+        {
+            font-family: Ubuntu;
+            font-weight: bold;
+            src: url('Ubuntu-Bold.ttf');
+        }
     </style>
     <linearGradient
        osb:paint="solid"
